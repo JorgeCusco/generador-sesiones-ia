@@ -29,8 +29,8 @@ Python 3.8 o superior.
 Una clave de API de Google Gemini (puedes obtenerla en Google AI Studio).
 
 1. Clonar el Repositorio
-git clone [URL_DE_TU_REPOSITORIO_EN_GITHUB]
-cd [NOMBRE_DE_LA_CARPETA_DEL_PROYECTO]
+git clone https://github.com/JorgeCusco/generador-sesiones-ia.git
+cd generador-sesiones-ia
 
 2. Configurar el Entorno
 Crea un archivo llamado .env en la raíz del proyecto. No lo subas a GitHub.
